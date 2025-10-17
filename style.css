@@ -1,0 +1,20 @@
+/* Grunddesign für die gesamte Seite */
+body {
+  background-color: #3f3f3f; /* dunkelgrauer Hintergrund */
+  font-family: Arial, Helvetica, sans-serif; /* moderne Schrift */
+  color: #cfcfcf; /* helles Grau für Text */
+  margin: 0; 
+  padding: 0;
+}
+
+/* Überschrift */
+h1 {
+  color: #004b2e; /* dunkles Grün */
+  margin-top: 40px;
+  text-align: center; /* Text in der Mitte */
+}
+
+/* Absätze */
+p {
+  line-height: 1.6; /* bessere Lesbarkeit */
+}
