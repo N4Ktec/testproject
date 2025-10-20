@@ -9,7 +9,7 @@ body {
 header {
   background-color: #007acc;
   color: white;
-  padding: 1rem;
+  padding: 20px;
   text-align: center;
 }
 
@@ -19,8 +19,16 @@ nav a {
   margin: 0 10px;
 }
 
+nav a:hover {
+  text-decoration: underline;
+  color: #fff;
+}
+
+
 main {
   padding: 2rem;
+  max-width: 900px;
+  margin: 0 auto;
 }
 
 footer {
